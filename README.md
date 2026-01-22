@@ -26,5 +26,5 @@ If you're curious about my work, feel free to explore my repositories!
 
 * 💻 **Insurance Agency Portal** – A professional, responsive website built from scratch with HTML/CSS/JS, featuring a custom admin dashboard.
 * 🤖 **Auto-Bot Suite** – Python & Selenium scripts that **increased workflow speed by 75%** by automating data extraction and report generation.
-* ☁️ **WishGroup Admin** – A robust backend system using **Java Spring Boot** and **MySQL**, deployed on a Linux VPS for managing client data.
+* ☁️ **Admin Site** – A robust backend system using **Java Spring Boot** and **MySQL**, deployed on a Linux VPS for managing client data.
 * 📊 **Data Analytics Notebooks** – Projects leveraging data to drive decision-making and optimize workflows.
