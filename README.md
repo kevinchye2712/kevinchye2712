@@ -1,30 +1,62 @@
-<div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGxmN2g4cGYxd3g3amU3OHhxa2VkbDIwYTR2Y2F5Z2l5czVrYXIxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/901mxGLGQN2PyCQpoc/giphy.gif" width="200" />
+# Hi there, I'm Kevin Chye! 👋
 
-  <h1>Hi! My name is Kevin</h1>
+I am a developer passionate about **Web Development**, **Process Automation**, and **Data Analytics**. I specialize in building tools that streamline complex workflows and developing robust web applications that solve real-world business problems.
 
-  <h3>Full-Stack Developer | Automation Specialist | Data Analyst</h3>
-  
-   
-</div>
+Currently, I focus on creating automation scripts to optimize data processing tasks and building professional web interfaces for the insurance industry.
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Tech Stack
 
-* 👀 I’m interested in **Web Development**, **Bot Automation**, and **Data Analytics**.
-* 🚀 **Key Achievement:** My custom automation bots have **increased workflow efficiency by 75%**, drastically reducing the time taken for manual tasks.
-* 🌱 I’m currently refining my skills in **Java Spring Boot** and **Advanced Selenium**.
-* 💞 I’m looking to collaborate on projects that involve **workflow automation** or **complex web apps**.
-* 📫 How to reach me: kevinchye2712@gmail.com
+**Languages & Scripting**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot&logoColor=white) 
+![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+**Database & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📂 Check Out My Projects
+### 🚀 Key Projects
 
-If you're curious about my work, feel free to explore my repositories!
+#### 🤖 **Workflow Automation Suite**
+* **Stack:** Python, Selenium
+* Developed a series of automation bots to handle repetitive administrative tasks that reduced the time required for repetitive administrative workflows by 75% through custom automation.
+* **Key Features:** Automated downloading of policy PDFs from agent portals, bulk extraction of client mobile numbers, and intelligent file renaming/organization based on policy details.
 
-* 💻 **Insurance Agency Portal** – A professional, responsive website built from scratch with HTML/CSS/JS, featuring a custom admin dashboard.
-* 🤖 **Auto-Bot Suite** – Python & Selenium scripts that **increased workflow speed by 75%** by automating data extraction and report generation.
-* ☁️ **Admin Site** – A robust backend system using **Java Spring Boot** and **MySQL**, deployed on a Linux VPS for managing client data.
-* 📊 **Data Analytics Notebooks** – Projects leveraging data to drive decision-making and optimize workflows.
+#### 🌐 **Insurance Agency Website**
+* **Stack:** HTML, CSS, JavaScript
+* Designed and built a professional, responsive website for an insurance agency (Chan Kwang) from scratch.
+* Focuses on clean UI/UX to present agency services and facilitate client contact.
+
+#### 📊 **PDF Data Extraction Tool**
+* **Stack:** Python (Analytics Libraries)
+* A data processing tool designed to ingest bulk PDF records.
+* Extracts specific structured data (Policy Names, Policy Numbers) from thousands of unstructured documents for analysis and reporting.
+
+#### ⚙️ **Admin Portal Backend**
+* **Stack:** Java Spring Boot, MySQL
+* Backend development for an administrative management system.
+* Handles secure data storage and retrieval, deployed on VPS infrastructure.
+
+---
+
+### 📈 GitHub Stats
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchye2712&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchye2712&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me
+
+* [LinkedIn](www.linkedin.com/in/han-xi-chye-7910362b7) *
+
