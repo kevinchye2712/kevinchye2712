@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="PATH_TO_YOUR_IMAGE/banner.png" width="100%" alt="Kevin Chye Hero Banner" />
+</div>
+
 # Hi there, I'm Kevin Chye! 👋
 
 I am a developer passionate about **Web Development**, **Process Automation**, and **Data Analytics**. I specialize in building tools that streamline complex workflows and developing robust web applications that solve real-world business problems.
@@ -61,5 +65,4 @@ Currently, I focus on creating automation scripts to optimize data processing ta
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Chye-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/han-xi-chye-7910362b7)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Chye-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/han-xi-chye-7910362b7)
