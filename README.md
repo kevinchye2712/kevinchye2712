@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="PATH_TO_YOUR_IMAGE/banner.png" width="100%" alt="Kevin Chye Hero Banner" />
+  <vid src="BANNER.mp4" width="100%" alt="Kevin Chye Hero Banner" />
 </div>
 
 # Hi there, I'm Kevin Chye! 👋
