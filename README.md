@@ -48,7 +48,7 @@ Currently, I focus on creating automation scripts to optimize data processing ta
 * Handles secure data storage and retrieval, deployed on VPS infrastructure.
 
 ### 👨‍💻 My Portfolio
-![My Portfolio Preview](https://kevinchye2712.github.io/Chye-Han-Xi-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome)](https://kevinchye2712.github.io/Chye-Han-Xi-Portfolio/)
 
 ---
 
