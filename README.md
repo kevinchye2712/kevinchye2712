@@ -47,6 +47,9 @@ Currently, I focus on creating automation scripts to optimize data processing ta
 * Backend development for an administrative management system.
 * Handles secure data storage and retrieval, deployed on VPS infrastructure.
 
+### 👨‍💻 My Portfolio
+[![My Portfolio Preview](portfolio-preview.png)](https://kevinchye2712.github.io/Chye-Han-Xi-Portfolio/)
+
 ---
 
 ### 📈 GitHub Stats
