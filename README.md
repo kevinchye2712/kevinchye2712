@@ -61,5 +61,5 @@ Currently, I focus on creating automation scripts to optimize data processing ta
 
 ### 📫 Connect with Me
 
-* [LinkedIn](www.linkedin.com/in/han-xi-chye-7910362b7) *
+![LinkedIn](www.linkedin.com/in/han-xi-chye-7910362b7) 
 
