@@ -10,11 +10,6 @@
     that solve real-world business problems. Currently focusing on <b>insurance industry automation</b>.
   </p>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevinchye2712&show_icons=true&theme=radical&hide_border=true" alt="Kevin's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchye2712&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
-
   <h3>🛠️ Tech Stack</h3>
   
   <p>
