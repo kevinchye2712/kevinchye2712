@@ -56,13 +56,6 @@ Currently, I focus on creating automation scripts to optimize data processing ta
 
 ---
 
-### 📈 GitHub Stats
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinchye2712&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinchye2712&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Chye-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/han-xi-chye-7910362b7)
