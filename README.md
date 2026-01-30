@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="BANNER.png" width="100%" alt="Kevin Chye Hero Banner" />
+  <img src="newBanner.png" width="100%" alt="Kevin Chye Hero Banner" />
   
   # Hi there, I'm Kevin Chye! 👋
   
@@ -29,14 +29,39 @@
 
 ### 🚀 Key Projects
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| 🤖 **Workflow Automation Suite** | **reduced admin time by 75%**. Automates policy PDF downloads, extraction of client mobile numbers, and intelligent file organization. | `Python` `Selenium` | [View Code](#) |
-| 🌐 **Insurance Agency Site** | Professional, responsive website for **Chan Kwang Agency**. Features a clean UI/UX for service presentation and client contact. | `HTML` `CSS` `JS` | [Live Site](#) |
-| 📊 **PDF Data Extraction** | Ingests bulk PDF records to extract structured data (Policy Names/Numbers) from thousands of unstructured docs. | `Python` `Analytics` | [View Code](#) |
-| ⚙️ **Admin Portal Backend** | Secure backend for admin management. Handles data storage/retrieval on VPS infrastructure. | `Java` `Spring Boot` | [View Code](#) |
+#### 🤖 Workflow Automation Suite
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white)
+> **Impact:** Reduced admin time by **75%**.
+>
+> A bot suite that automates policy PDF downloads, extracts client mobile numbers, and intelligently renames and organizes files based on policy details.
+>
+> [**View Code »**](#)
 
-<br />
+---
+
+#### 🌐 Insurance Agency Website
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> Designed and built a professional, responsive website for **Chan Kwang Agency**. Focuses on clean UI/UX to present agency services and facilitate client contact.
+>
+> [**Visit Live Site »**](#)
+
+---
+
+#### 📊 PDF Data Extraction Tool
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Analytics-150458?style=flat-square&logo=pandas&logoColor=white)
+> A data processing tool designed to ingest bulk PDF records. It extracts structured data (Policy Names, Numbers) from thousands of unstructured documents for analysis.
+>
+> [**View Code »**](#)
+
+---
+
+#### ⚙️ Admin Portal Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+> Secure backend for an administrative management system. Handles secure data storage and retrieval, deployed on VPS infrastructure.
+>
+> [**View Code »**](#)
+
+---
 
 <div align="center">
 
