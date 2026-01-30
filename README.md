@@ -65,9 +65,17 @@
 
 <div align="center">
 
+<div align="center">
+
 ### 👨‍💻 Portfolio & Connect
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=googlechrome)](https://kevinchye2712.github.io/Chye-Han-Xi-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kevin%20Chye-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/han-xi-chye-7910362b7)
+
+<a href="https://kevinchye2712.github.io/Chye-Han-Xi-Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-black?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/han-xi-chye-7910362b7">
+  <img src="https://img.shields.io/badge/LinkedIn-Kevin%20Chye-black?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
+</a>
+
+</div>
 
 </div>
